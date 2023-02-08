@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [personal website](fauzanhalim.github.io)
 
-- 👨‍💻 All of my projects are available at [https://nurfauzanhalim.carrd.co/](nurfauzanhalim.carrd.co)
+- 👨‍💻 All of my projects are available at [Nur Fauzan Halim](https://nurfauzanhalim.carrd.co/)
 
 - 💬 Ask me about **react, Go, Bootstrap, JQuery, Html, Css**
 
