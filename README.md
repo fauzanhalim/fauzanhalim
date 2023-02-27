@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nur Fauzan Halim</h1>
-<h3 align="center">He's a Developer and a Designer. He loves to designing an app or website then slicing or develope into an software. He's studies Informatics engineering at UNIKOM</h3>
+<h3 align="center">He's a Developer and a Designer. He loves to designing an app or website then slicing or developer into an software. He's studies Informatics engineering at UNIKOM</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [personal website](https://fauzanhalim.github.io/)
