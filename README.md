@@ -2,7 +2,7 @@
 <h3 align="center">He's a Software Developer and a Designer. He loves to designing an app or website then slicing or developer into an software.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [personal website](https://nurfauzanhalim.carrds.co/)
+- 🔭 I’m currently working on [personal website](https://nurfauzanhalim.carrd.co/)
 
 - 💬 Ask me about **react, Go, Bootstrap, JQuery, Html, Css,Laravel**
 
