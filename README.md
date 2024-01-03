@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nur Fauzan Halim</h1>
-<h3 align="center">He's a Developer and a Designer. He loves to designing an app or website then slicing or developer into an software. He's studies Informatics engineering at UNIKOM Bandung</h3>
+<h3 align="center">He's a Software Developer and a Designer. He loves to designing an app or website then slicing or developer into an software.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [personal website](https://fauzanhalim.github.io/)
+- 🔭 I’m currently working on [personal website](https://nurfauzanhalim.carrds.co/)
 
-- 👨‍💻 All of my projects are available at [Nur Fauzan Halim](https://nurfauzanhalim.carrd.co/)
-
-- 💬 Ask me about **react, Go, Bootstrap, JQuery, Html, Css**
+- 💬 Ask me about **react, Go, Bootstrap, JQuery, Html, Css,Laravel**
 
 - 📫 How to reach me **nurfauzanhalim@gmail.com**
 
